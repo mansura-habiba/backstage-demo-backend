@@ -3,3 +3,5 @@
 package-lock.json
 Dockerfile
 dist/main.js
+.idea/*
+node_modules/*

@@ -13,6 +13,7 @@
     "lint": "backstage-cli package lint",
     "test": "backstage-cli package test",
     "clean": "backstage-cli package clean",
+    "startlocal": "backstage-cli package start --config app-config-local.yaml",
     "build-image": "docker build ../.. -f Dockerfile --tag backstage"
   },
   "dependencies": {
